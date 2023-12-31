@@ -3,7 +3,7 @@
 ## I'm a Full stack web, mobile and desktop developer
 
 - 🌍  I'm based in Serbia
-- 🖥️  See my portfolio at [this link](http://portfolio-strahinja.vercel.app)
+- 🖥️  See my portfolio [here](http://portfolio-strahinja.vercel.app)
 - ✉️  You can contact me at [pavicevicstrahinja99@gmail.com](mailto:pavicevicstrahinja99@gmail.com)
 - 🚀  I'm currently working on [guitar-verse](http://guitar-verse.vercel.app)
 - 🧠  I'm learning Next.js, React.js, Rust and Tauri

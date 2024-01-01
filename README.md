@@ -9,7 +9,7 @@
   - [GuitarVerse](https://guitar-verse.vercel.app)
   - [My Portfolio](https://portfolio-strahinja.vercel.app)
   - [FlappyBird Game](https://github.com/Strahinja2112/FlappyBird)
-- 🧠  I'm learning Next.js, React.js, Rust and Tauri
+- 🧠  I'm currently learning Next.js, Rust, Tauri and Unity
 
 ### Skills
 

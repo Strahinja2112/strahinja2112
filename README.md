@@ -5,7 +5,10 @@
 - 🌍  I'm based in Serbia
 - 🖥️  See my portfolio [here](http://portfolio-strahinja.vercel.app)
 - ✉️  You can contact me at [pavicevicstrahinja99@gmail.com](mailto:pavicevicstrahinja99@gmail.com)
-- 🚀  I'm currently working on [guitar-verse](http://guitar-verse.vercel.app)
+- 🚀  I'm currently working on
+  - [GuitarVerse](https://guitar-verse.vercel.app)
+  - [My Portfolio](https://portfolio-strahinja.vercel.app)
+  - [FlappyBird Game](https://github.com/Strahinja2112/FlappyBird)
 - 🧠  I'm learning Next.js, React.js, Rust and Tauri
 
 ### Skills

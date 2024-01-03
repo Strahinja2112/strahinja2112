@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm a Full stack web, mobile and desktop developer
+## I'm a full stack web, mobile and desktop developer
 
 - 🌍  I'm based in Serbia
 - 🖥️  See my portfolio [here](http://portfolio-strahinja.vercel.app)

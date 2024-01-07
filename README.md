@@ -2,7 +2,6 @@
 
 ## I'm a full stack web, mobile and desktop developer
 
-- 🌍  I'm based in Serbia
 - 🖥️  See my portfolio [here](http://portfolio-strahinja.vercel.app)
 - ✉️  You can contact me at [pavicevicstrahinja99@gmail.com](mailto:pavicevicstrahinja99@gmail.com)
 

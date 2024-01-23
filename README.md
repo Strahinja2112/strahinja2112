@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## I'm a full stack web, mobile and desktop developer
 
 - 🖥️  See my portfolio [here](http://portfolio-strahinja.vercel.app)

@@ -1,6 +1,6 @@
 ## Full stack web, mobile and desktop developer.
 
-- 🖥️  See my portfolio [here](http://portfolio-strahinja.vercel.app)
+- 🖥️  See my portfolio [here](http://strahinja.vercel.app)
 - ✉️  You can contact me at [pavicevicstrahinja99@gmail.com](mailto:pavicevicstrahinja99@gmail.com)
 
 ### Skills

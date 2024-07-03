@@ -27,7 +27,6 @@
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=safari&google-chrome=white" target="_blank" />
   </a>
 </div>
-<hr style="margin-top:20px;"/>
 
 <h1 align="center" style="border-bottom:0px; margin-top:30px;">⚒️ Languages-Frameworks-Tools ⚒️</h1>
 <h2 style="border-bottom:0px;">💻 Core</h2>
@@ -38,8 +37,6 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,postgres,supabase,googlecloud," />
 
 <br/>
-
-<hr/>
 
 <h1 align="center" style="border-bottom:0px; margin-top:30px;">⚡ Stats ⚡</h1>
 <br>

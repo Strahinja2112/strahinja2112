@@ -33,8 +33,6 @@
 <h3 style="border-bottom:0px; margin-top:20px;">💻 Backend</h3>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,postgres,supabase,googlecloud," />
 
-<hr/>
-
 <h1 align="center" style="border-bottom:0px; margin-top:30px;">⚡ Stats ⚡</h1>
 <br>
 <div align="center" style="display:flex; flex-direction:column; align-items:center; gap: 20px">

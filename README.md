@@ -4,7 +4,7 @@
 
 <div align="center">
 
-🔭 I’m currently working on [AI Content Generator](https://aicontent-generator.vercel.app)
+🔭 I’m currently working on [Book Insights](https://book-insights.vercel.app)
 
 🌱 I’m currently learning **Next.js, Supabase, AWS!**
 

@@ -2,7 +2,7 @@
 
 # 👋 Hi, my name is Strahinja
 
-## Full-stack desktop, web, and mobile developer
+## Full-stack web, mobile and desktop developer
 
 I'm currently open to job opportunities where I can contribute, grow, and collaborate on exciting projects.  
 If you have any opportunity for me, please feel free to [get in touch!](https://strahinja.vercel.app#contact)
